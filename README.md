@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZihengGENG
-- 👀 I’m now a master student in Department of Civil Engineering at Hunan University
+- 👀 I’m now a M.Sc. student in Department of Civil Engineering at Hunan University
 - 🌱 My passion lies in harnessing scientific machine learning tools to decode construction big data
 - 📫 Reach me: gengziheng@hnu.edu.cn
 
